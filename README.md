@@ -55,7 +55,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See `LICENSE.txt` for more information.
+Distributed under the Apache 2.0 License. See `LICENSE.txt` for more information.
 
 
 
