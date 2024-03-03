@@ -32,6 +32,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- TABLE OF CONTENTS -->
 ## Table of contents
 
 -   [About The Project](#about-the-project)
