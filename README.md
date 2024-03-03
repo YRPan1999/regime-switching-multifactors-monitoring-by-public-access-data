@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is aimed at a python class that collects public access data and monitors not only macro indices but also individual stock price and corresponding regime movements.
+This project is aimed at a python class that collects public access data to monitor not only macro indices but also individual stock price and corresponding regime movements.
 
 ### Built With
 
