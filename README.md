@@ -15,13 +15,9 @@
 
 This project is aimed at a python class that collects public access data and monitors not only macro indices but also individual stock price and corresponding regime movements.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 * Yahoo Finance
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -49,11 +45,6 @@ To get a local copy up and running follow these simple example steps.
 <!-- QUICK EXAMPLES -->
 ## A Quick Example
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- FEATURES -->
@@ -64,9 +55,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distributed under the Apache License 2.0. See `LICENSE.txt` for more information.
 
 
 
@@ -76,8 +65,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Youran Pan - youran.pan@nyu.edu
 
 Project Link: [https://github.com/YRPan1999/regime-switching-multifactors-monitoring-by-public-access-data)](https://github.com/YRPan1999/regime-switching-multifactors-monitoring-by-public-access-data)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
