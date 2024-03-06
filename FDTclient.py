@@ -1,0 +1,2 @@
+class FiscalDataTreasuryClient:
+    return

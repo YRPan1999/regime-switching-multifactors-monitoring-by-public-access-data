@@ -5,12 +5,6 @@ class BEAClient:
     def __init__(self, api_key):
         self.api_key = api_key
         self.base_url = "https://apps.bea.gov/api/data"
-
-    def load_api_key(self, filepath='config.txt'):
-        with open(filepath, 'r') as file:
-            for line in file:
-                if 'BEA_API_KEY=' in line:
-                    self.api_key = line.strip().split('=')[1]
     
     def get_gdp_data(self, year="2020"):
         params = {
@@ -36,8 +30,10 @@ class BEAClient:
 ## Example usage ##
 ###################
              
-# if __name__ == "__main__":
-#     api_key = ???
-#     bea_client = BEAClient(api_key=api_key)
-#     gdp_data = bea_client.get_gdp_data(year="2020")  # Specify the year or other parameters as needed
-#     print(gdp_data.head())
+# from data_loading import BEAClient
+# # Initialize the BEA client
+# bea_client = BEAClient(api_key=BEA_API_KEY)
+# # Fetch GDP data for the year 2020 (or any other year of interest)
+# gdp_data = bea_client.get_gdp_data(year="2020")
+# # Print the head of the GDP data DataFrame to verify the data
+# print(gdp_data.head())
