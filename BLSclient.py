@@ -1,2 +1,2 @@
 class BureauOfLaborStatisticsClient:
-    return
+    pass

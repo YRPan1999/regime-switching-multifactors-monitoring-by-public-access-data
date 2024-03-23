@@ -2,6 +2,7 @@ import os
 import json
 from pprint import pprint
 from BEAclient import BureauEconomicAnalysisClient
+from FDTclient import FederalTreasuryClient
 
 class BEADataRetriever:
     """Class to retrieve and save data from the BEA API."""

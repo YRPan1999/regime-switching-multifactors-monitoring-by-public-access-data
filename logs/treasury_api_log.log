@@ -1,0 +1,48 @@
+2024-03-23 02:29:22,033|session.py|URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a
+2024-03-23 02:29:22,033|session.py|PARAMS: {'format': 'json', 'page[number]': 1, 'page[size]': 100, 'fields': None, 'sort': None, 'filters': None, 'api_key': 'xxxxxxxx'}
+2024-03-23 02:29:22,401|session.py|{
+    "error_code": 403,
+    "response_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a?format=json&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "response_body": {
+        "error": "Bad Path Param",
+        "message": "Path parameter fiscal_service/v1/accounting/dts/dts_table_3a does not exist, for more information please see the documentation."
+    },
+    "response_request": {},
+    "response_method": "GET"
+}
+2024-03-23 02:30:17,697|session.py|URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a
+2024-03-23 02:30:17,697|session.py|PARAMS: {'format': 'json', 'page[number]': 1, 'page[size]': 100, 'fields': None, 'sort': None, 'filters': None, 'api_key': 'xxxxxxxx'}
+2024-03-23 02:30:18,004|session.py|{
+    "error_code": 403,
+    "response_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a?format=json&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "response_body": {
+        "error": "Bad Path Param",
+        "message": "Path parameter fiscal_service/v1/accounting/dts/dts_table_3a does not exist, for more information please see the documentation."
+    },
+    "response_request": {},
+    "response_method": "GET"
+}
+2024-03-23 02:31:02,207|session.py|URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a
+2024-03-23 02:31:02,208|session.py|PARAMS: {'format': 'json', 'page[number]': 1, 'page[size]': 100, 'fields': None, 'sort': None, 'filters': None, 'api_key': 'xxxxxxxx'}
+2024-03-23 02:31:02,544|session.py|{
+    "error_code": 403,
+    "response_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a?format=json&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "response_body": {
+        "error": "Bad Path Param",
+        "message": "Path parameter fiscal_service/v1/accounting/dts/dts_table_3a does not exist, for more information please see the documentation."
+    },
+    "response_request": {},
+    "response_method": "GET"
+}
+2024-03-23 02:31:07,697|session.py|URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a
+2024-03-23 02:31:07,698|session.py|PARAMS: {'format': 'json', 'page[number]': 1, 'page[size]': 100, 'fields': None, 'sort': None, 'filters': None, 'api_key': 'xxxxxxxx'}
+2024-03-23 02:31:07,959|session.py|{
+    "error_code": 403,
+    "response_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/dts/dts_table_3a?format=json&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "response_body": {
+        "error": "Bad Path Param",
+        "message": "Path parameter fiscal_service/v1/accounting/dts/dts_table_3a does not exist, for more information please see the documentation."
+    },
+    "response_request": {},
+    "response_method": "GET"
+}
