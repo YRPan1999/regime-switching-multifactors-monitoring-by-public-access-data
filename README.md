@@ -17,7 +17,10 @@ This project is aimed at a python class that collects public access data to moni
 
 ### Built With
 
-* Yahoo Finance
+* Bureau Economic Analysis (BEA) API
+* Bureau of Labor Statistics (BLS) API
+* U.S. Department of the Treasury (Treasury) API
+* Yahoo Finance API
 
 
 
